@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item>北京市</item>
+        <item>上海市</item>
+        <item>广州市</item>
+        <item>南京市</item>
+    </string-array>
+</resources>

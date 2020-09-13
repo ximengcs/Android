@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="option1">计算机科学与技术</string>
+    <string name="option2">物联网工程</string>
+    <string name="option3">软件工程</string>
+    <string name="option4">网络工程</string>
+    <string name="option5">智能科学与技术</string>
+</resources>
